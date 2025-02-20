@@ -2,13 +2,13 @@
 
 ## 팀 구성
 
-**팀장**: 이서영
+**[PM]** 이서영
 
-**디자인팀**: 김인소, 김은빈
+**[DESIGN]** 김은빈, 김인소
 
-**프론트팀**: 강수진, 박채빈, 유지우
+**[FRONTEND]** 강수진, 유지우, 박채빈
 
-**백엔드팀**: 김나연, 신정화, 임성윤, 주정빈
+**[BACKEND]** 임성윤, 주정빈, 신정화, 김나연
 
 ## 서비스 소개
 
@@ -19,7 +19,7 @@
 
 ## 프로덕트 설명
 
-### 프로덕트 목적과 핵심 가치
+### 목적과 핵심 가치
 
 매일의 일상적인 착장을 기록하고, 패션 커뮤니티를 통해 유저들 간의 소통 활성화
 
@@ -43,7 +43,31 @@
   - 패션에 관심 있는 타겟 고객에게만 집중적으로 광고를 노출하고 싶은 마케터.
   - 브랜드 태그, 링크, 그리고 사용자-generated 콘텐츠를 통해 자연스럽게 홍보 효과를 극대화하고 싶은 사람들.
 
-## 기능 설명
+## 주요 기능
+
+### 1. 온보딩
+
+![1 1 회원가입](https://github.com/user-attachments/assets/d714e9c9-d05c-43dc-9924-bd13fe951550)
+![1 2 로그인](https://github.com/user-attachments/assets/739664d9-fc55-4776-9e49-3265c056a9a9)
+
+### 2. 데일리 미션
+
+![2 1 데일리미션](https://github.com/user-attachments/assets/718198b5-9bd7-48d4-b8cf-32899eaf21f4)
+
+### 3. 커뮤니티
+
+![3  타임라인](https://github.com/user-attachments/assets/236de7bf-cd0a-4028-ad42-bae86d62ef61)
+![3 2 유저 프로필](https://github.com/user-attachments/assets/8ad31922-1186-4495-8c78-32a79c16dd51)
+![3 3 오늘의 옷장](https://github.com/user-attachments/assets/72fe925f-35f5-40ec-9244-e5bce82e954f)
+![3 4 검색](https://github.com/user-attachments/assets/409918db-7f77-400d-ab4e-8acaf32444b5)
+![3 5 배틀 게시판](https://github.com/user-attachments/assets/757184b7-3595-4e2b-af62-776da616bd0c)
+
+### 4. 프로필
+
+![4 프로필](https://github.com/user-attachments/assets/845b29c5-f4c1-432b-89f4-9d71f8d55a39)
+![4 1 히스토리](https://github.com/user-attachments/assets/4956f78f-5138-4a7b-9a2c-90168c24f4fa)
+![4 2 저장된 게시글](https://github.com/user-attachments/assets/7a9a0b22-7c43-40db-b538-2c74ee820c6b)
+![4 3 내 정보 수정](https://github.com/user-attachments/assets/16fcf4a3-bf5c-4fcd-854c-5d9e9e3571c0)
 
 ## 소통 창구
 
