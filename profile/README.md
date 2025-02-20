@@ -1,14 +1,35 @@
 # Closit: 나의 데일리 패션 기록장
 
+```
+나만의 패션을 기록해요.
+```
+![표지](https://github.com/user-attachments/assets/3c5641ab-a897-4a61-9cdb-e24465f7e4d6)
+
 ## 팀 구성
 
-**[PM]** 이서영
+### 💡 PM
+|이서영|
+|:---:|
+|<img src="https://via.placeholder.com/100" width="100">|
+|`PM LEAD`|
 
-**[DESIGN]** 김은빈, 김인소
+### 🎨 DESIGN
+|김은빈|김인소|
+|:---:|:---:|
+|<img src="https://via.placeholder.com/100" width="100">|<img src="https://via.placeholder.com/100" width="100">|
+|`DESIGN LEAD`|`DESIGN FOLLOW`|
 
-**[FRONTEND]** 강수진, 유지우, 박채빈
+### 💻 FRONTEND
+|강수진|유지우|박채빈|
+|:---:|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/86d22812-e822-49a3-b0ea-090449b4dce9" width="100">|<img src="https://github.com/user-attachments/assets/57c15923-f035-4ba8-a3a6-32c1322570cb" width="100">|<img src="https://github.com/user-attachments/assets/7755e0ab-497b-4f2f-a7a2-274b75932bc9" width="100">|
+|`FRONTEND LEAD`|`FRONTEND FOLLOW`|`FRONTEND FOLLOW`|
 
-**[BACKEND]** 임성윤, 주정빈, 신정화, 김나연
+### 🔧 BACKEND
+|임성윤|주정빈|신정화|김나연|
+|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/8477f522-0575-46bb-9773-5e530a322cf5" width="100">|<img src="https://github.com/user-attachments/assets/7910c129-8e21-4fed-b4ed-f6c8091b13b5" width="100">|<img src="https://github.com/user-attachments/assets/15a5b8aa-8319-442d-9d2f-5f5186b6dff8" width="100">|<img src="https://github.com/user-attachments/assets/b1b3902a-a2d4-4262-b625-d93c94be106a" width="100">|
+|`BACKEND LEAD`|`BACKEND FOLLOW`|`BACKEND FOLLOW`|`BACKEND FOLLOW`|
 
 ## 서비스 소개
 
