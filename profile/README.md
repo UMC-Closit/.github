@@ -47,27 +47,45 @@
 
 ### 1. 온보딩
 
-![1 1 회원가입](https://github.com/user-attachments/assets/d714e9c9-d05c-43dc-9924-bd13fe951550)
-![1 2 로그인](https://github.com/user-attachments/assets/739664d9-fc55-4776-9e49-3265c056a9a9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d714e9c9-d05c-43dc-9924-bd13fe951550" width="45%" />
+  <img src="https://github.com/user-attachments/assets/739664d9-fc55-4776-9e49-3265c056a9a9" width="45%" />
+</p>
 
 ### 2. 데일리 미션
 
-![2 1 데일리미션](https://github.com/user-attachments/assets/718198b5-9bd7-48d4-b8cf-32899eaf21f4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/718198b5-9bd7-48d4-b8cf-32899eaf21f4" width="90%" />
+</p>
 
 ### 3. 커뮤니티
 
-![3  타임라인](https://github.com/user-attachments/assets/236de7bf-cd0a-4028-ad42-bae86d62ef61)
-![3 2 유저 프로필](https://github.com/user-attachments/assets/8ad31922-1186-4495-8c78-32a79c16dd51)
-![3 3 오늘의 옷장](https://github.com/user-attachments/assets/72fe925f-35f5-40ec-9244-e5bce82e954f)
-![3 4 검색](https://github.com/user-attachments/assets/409918db-7f77-400d-ab4e-8acaf32444b5)
-![3 5 배틀 게시판](https://github.com/user-attachments/assets/757184b7-3595-4e2b-af62-776da616bd0c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/236de7bf-cd0a-4028-ad42-bae86d62ef61" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8ad31922-1186-4495-8c78-32a79c16dd51" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72fe925f-35f5-40ec-9244-e5bce82e954f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/409918db-7f77-400d-ab4e-8acaf32444b5" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/757184b7-3595-4e2b-af62-776da616bd0c" width="90%" />
+</p>
 
 ### 4. 프로필
 
-![4 프로필](https://github.com/user-attachments/assets/845b29c5-f4c1-432b-89f4-9d71f8d55a39)
-![4 1 히스토리](https://github.com/user-attachments/assets/4956f78f-5138-4a7b-9a2c-90168c24f4fa)
-![4 2 저장된 게시글](https://github.com/user-attachments/assets/7a9a0b22-7c43-40db-b538-2c74ee820c6b)
-![4 3 내 정보 수정](https://github.com/user-attachments/assets/16fcf4a3-bf5c-4fcd-854c-5d9e9e3571c0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/845b29c5-f4c1-432b-89f4-9d71f8d55a39" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4956f78f-5138-4a7b-9a2c-90168c24f4fa" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a9a0b22-7c43-40db-b538-2c74ee820c6b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/16fcf4a3-bf5c-4fcd-854c-5d9e9e3571c0" width="45%" />
+</p>
+
 
 ## 소통 창구
 
