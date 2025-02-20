@@ -1,12 +1,50 @@
-## Hi there 👋
+# Closit: 나의 데일리 패션 기록장
 
-<!--
+## 팀 구성
 
-**Here are some ideas to get you started:**
+**팀장**: 이서영
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**디자인팀**: 김인소, 김은빈
+
+**프론트팀**: 강수진, 박채빈, 유지우
+
+**백엔드팀**: 김나연, 신정화, 임성윤, 주정빈
+
+## 서비스 소개
+
+매일의 코디를 기록하는 패션 커뮤니티 플랫폼
+
+- 데일리 코디를 기록하고 유저 중심의 패션 콘텐츠를 제공
+- 패션에 대한 관심 여부와 상관없이 누구나 쉽게 참여할 수 있는 낮은 진입 장벽
+
+## 프로덕트 설명
+
+### 프로덕트 목적과 핵심 가치
+
+매일의 일상적인 착장을 기록하고, 패션 커뮤니티를 통해 유저들 간의 소통 활성화
+
+### 타깃 사용자
+
+**매일 착장을 기록하고 싶은 사용자**
+
+  - 특별히 잘 차려입지 않아도 자신의 일상을 기록으로 남기고 싶은 사람들.
+  - 자신의 코디를 한눈에 모아보고 스타일 히스토리를 관리하고 싶은 사람들.
+  - 코디에 익숙하지 않아 참고 자료가 필요한 사람들.
+
+**많은 사람에게 내 코디를 보여주고 싶은 인플루언서**
+
+  - 패션에 관심 있는 사람들이 모인 플랫폼에서 자신의 스타일을 공유하고 싶어 하는 사람들.
+  - 브랜드와의 협업을 통해 자신만의 영향력을 넓히고 홍보 효과를 얻고 싶은 사람들.
+  - 팬들과 소통하며 개인 브랜드를 구축하고 싶은 인플루언서들.
+
+**효과적인 홍보를 원하는 쇼핑몰 마케터**
+
+  - 기존 플랫폼에서 무관심한 사용자에게 광고가 노출되어 비효율적이었던 경험을 개선하고 싶은 업체.
+  - 패션에 관심 있는 타겟 고객에게만 집중적으로 광고를 노출하고 싶은 마케터.
+  - 브랜드 태그, 링크, 그리고 사용자-generated 콘텐츠를 통해 자연스럽게 홍보 효과를 극대화하고 싶은 사람들.
+
+## 기능 설명
+
+## 소통 창구
+
+인스타그램: @closit.official
