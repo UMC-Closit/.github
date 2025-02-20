@@ -3,7 +3,9 @@
 ```
 나만의 패션을 기록해요.
 ```
-![표지](https://github.com/user-attachments/assets/3c5641ab-a897-4a61-9cdb-e24465f7e4d6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c5641ab-a897-4a61-9cdb-e24465f7e4d6" width="90%" />
+</p>
 
 ## 팀 구성
 
