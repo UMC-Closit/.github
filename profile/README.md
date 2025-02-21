@@ -1,4 +1,4 @@
-# Closit: 나의 데일리 패션 기록장
+# 👗 Closit: 나의 데일리 패션 기록장
 
 ```
 나만의 패션을 기록해요.
@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/3c5641ab-a897-4a61-9cdb-e24465f7e4d6" width="90%" />
 </p>
 
-## 팀 구성
+## 👥 팀 구성
 
 ### 💡 PM
 |이서영|
@@ -33,56 +33,45 @@
 |<img src="https://github.com/user-attachments/assets/8477f522-0575-46bb-9773-5e530a322cf5" width="100">|<img src="https://github.com/user-attachments/assets/7910c129-8e21-4fed-b4ed-f6c8091b13b5" width="100">|<img src="https://github.com/user-attachments/assets/15a5b8aa-8319-442d-9d2f-5f5186b6dff8" width="100">|<img src="https://github.com/user-attachments/assets/b1b3902a-a2d4-4262-b625-d93c94be106a" width="100">|
 |`BACKEND LEAD`|`BACKEND FOLLOW`|`BACKEND FOLLOW`|`BACKEND FOLLOW`|
 
-## 서비스 소개
+## 📌 서비스 소개
 
 매일의 코디를 기록하는 패션 커뮤니티 플랫폼
 
-- 데일리 코디를 기록하고 유저 중심의 패션 콘텐츠를 제공
-- 패션에 대한 관심 여부와 상관없이 누구나 쉽게 참여할 수 있는 낮은 진입 장벽
+- **데일리 코디**를 기록하고 유저 중심의 패션 콘텐츠 제공
+- **누구나 쉽게 참여**할 수 있는 낮은 진입 장벽
 
-## 프로덕트 설명
+## 🔍 프로덕트 설명
 
-### 목적과 핵심 가치
+### 🎯 목적과 핵심 가치
+- **일상적인 착장을 기록하고, 패션 커뮤니티에서 유저들과 소통**
+- 자신의 스타일 히스토리를 관리하고 발전
 
-매일의 일상적인 착장을 기록하고, 패션 커뮤니티를 통해 유저들 간의 소통 활성화
+### 👤 타깃 사용자
 
-### 타깃 사용자
+#### **매일 착장을 기록하고 싶은 사용자**
+- 일상의 코디를 간편하게 기록하고 싶은 사람들
+- 자신의 코디를 한눈에 모아보고 스타일 변화를 관리하고 싶은 사람들
 
-**매일 착장을 기록하고 싶은 사용자**
+#### **많은 사람에게 내 코디를 보여주고 싶은 인플루언서**
+- 패션을 공유하고, 브랜드 협업을 원하거나 팬들과 소통하고 싶은 사용자
 
-  - 특별히 잘 차려입지 않아도 자신의 일상을 기록으로 남기고 싶은 사람들.
-  - 자신의 코디를 한눈에 모아보고 스타일 히스토리를 관리하고 싶은 사람들.
-  - 코디에 익숙하지 않아 참고 자료가 필요한 사람들.
+#### **효과적인 홍보를 원하는 쇼핑몰 마케터**
+- 패션에 관심 있는 타겟 고객에게 집중적으로 광고를 노출하고 싶은 마케터
 
-**많은 사람에게 내 코디를 보여주고 싶은 인플루언서**
+## 🚀 주요 기능
 
-  - 패션에 관심 있는 사람들이 모인 플랫폼에서 자신의 스타일을 공유하고 싶어 하는 사람들.
-  - 브랜드와의 협업을 통해 자신만의 영향력을 넓히고 홍보 효과를 얻고 싶은 사람들.
-  - 팬들과 소통하며 개인 브랜드를 구축하고 싶은 인플루언서들.
-
-**효과적인 홍보를 원하는 쇼핑몰 마케터**
-
-  - 기존 플랫폼에서 무관심한 사용자에게 광고가 노출되어 비효율적이었던 경험을 개선하고 싶은 업체.
-  - 패션에 관심 있는 타겟 고객에게만 집중적으로 광고를 노출하고 싶은 마케터.
-  - 브랜드 태그, 링크, 그리고 사용자-generated 콘텐츠를 통해 자연스럽게 홍보 효과를 극대화하고 싶은 사람들.
-
-## 주요 기능
-
-### 1. 온보딩
-
+### 1️⃣ 온보딩
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d714e9c9-d05c-43dc-9924-bd13fe951550" width="45%" />
   <img src="https://github.com/user-attachments/assets/739664d9-fc55-4776-9e49-3265c056a9a9" width="45%" />
 </p>
 
-### 2. 데일리 미션
-
+### 2️⃣ 데일리 미션
 <p align="center">
   <img src="https://github.com/user-attachments/assets/718198b5-9bd7-48d4-b8cf-32899eaf21f4" width="90%" />
 </p>
 
-### 3. 커뮤니티
-
+### 3️⃣ 커뮤니티
 <p align="center">
   <img src="https://github.com/user-attachments/assets/236de7bf-cd0a-4028-ad42-bae86d62ef61" width="45%" />
   <img src="https://github.com/user-attachments/assets/8ad31922-1186-4495-8c78-32a79c16dd51" width="45%" />
@@ -97,8 +86,7 @@
   <img src="https://github.com/user-attachments/assets/757184b7-3595-4e2b-af62-776da616bd0c" width="90%" />
 </p>
 
-### 4. 프로필
-
+### 4️⃣ 프로필
 <p align="center">
   <img src="https://github.com/user-attachments/assets/845b29c5-f4c1-432b-89f4-9d71f8d55a39" width="45%" />
   <img src="https://github.com/user-attachments/assets/4956f78f-5138-4a7b-9a2c-90168c24f4fa" width="45%" />
@@ -109,7 +97,16 @@
   <img src="https://github.com/user-attachments/assets/16fcf4a3-bf5c-4fcd-854c-5d9e9e3571c0" width="45%" />
 </p>
 
+## 🛠 기술 스택
 
-## 소통 창구
+### 📱 Frontend
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=android&logoColor=white"/>
 
-인스타그램: @closit.official
+### 🛠 Backend
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+
+### ⚙️ CI/CD
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+## 📢 소통 창구
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/closit.official/)
