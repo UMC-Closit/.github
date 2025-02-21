@@ -18,7 +18,7 @@
 ### 🎨 DESIGN
 |김은빈|김인소|
 |:---:|:---:|
-|<img src="https://via.placeholder.com/100" width="100">|<img src="https://via.placeholder.com/100" width="100">|
+|<img src="https://avatars.githubusercontent.com/u/113419021?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/86476876?v=4" width="100">|
 |`DESIGN LEAD`|`DESIGN FOLLOW`|
 
 ### 💻 FRONTEND
