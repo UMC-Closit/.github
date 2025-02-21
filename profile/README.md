@@ -12,7 +12,7 @@
 ### 💡 PM
 |이서영|
 |:---:|
-|<img src="https://via.placeholder.com/100" width="100">|
+|<img src="https://avatars.githubusercontent.com/u/142672012?v=4" width="100">|
 |`PM LEAD`|
 
 ### 🎨 DESIGN
